@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1mail
-- 👀 I’m interested in Everything
+- 👀 I’m interested in Tech
 - 🌱 I’m currently learning Java, Python, PHP
 - 💞️ I’m looking to collaborate on 1mail.my.id
 - 📫 How to reach me admin@1mail.my.id
